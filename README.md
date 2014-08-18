@@ -1,7 +1,7 @@
 jCEP
 ====
-
-Recupera informações como rua, bairro, cidade e estado fornecendo apenas o CEP
+Plugin para jQuery.
+Recupera informações como rua, bairro, cidade e estado fornecendo apenas o CEP.
 
 Exemplo de uso:
 
